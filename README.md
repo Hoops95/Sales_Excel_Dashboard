@@ -36,7 +36,7 @@ Use clear and concise visualizations to present the results effectively.</p1>
 
 </p1>
   <h2> Here is the Sales Dashboard 😇</h2>
-  <img src="sales.PNG">
+  <img src="dash1.PNG">
 
   
 
