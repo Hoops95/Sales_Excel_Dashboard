@@ -1,3 +1,6 @@
+<h2> Here is the Sales Dashboard 😇</h2>
+  <img src="dash1.PNG">
+
 <h1> Sales Dashboard 😊</h1>
 <p1>A Dashboard for sales Data </p1>
 <ul>
@@ -35,8 +38,7 @@ Use clear and concise visualizations to present the results effectively.</p1>
 </ul>
 
 </p1>
-  <h2> Here is the Sales Dashboard 😇</h2>
-  <img src="dash1.PNG">
+  
 
   
 
